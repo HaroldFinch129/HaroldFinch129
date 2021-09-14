@@ -10,8 +10,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-halid-gamze/)
 
 <img src=https://raw.githubusercontent.com/HaroldFinch129/MuhammedHalidGamze/main/ss.png>
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedHalidGAMZE&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedHalidGAMZE&layout=compact&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=HaroldFinch129&count_private=true&show_icons=true&theme=merko" > 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldFinch129&layout=compact&theme=merko" />
 
 
 ![](https://komarev.com/ghpvc/?username=MuhammedHalidGAMZE)
