@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=m.h.gamze@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-halid-gamze/)
 
-<img src="https://github.com/MuhammedHalidGAMZE/MuhammedHAlidGAMZE/blob/main/ss.png?raw=true">
+<img src=https://raw.githubusercontent.com/HaroldFinch129/MuhammedHalidGamze/main/ss.png>
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammedHalidGAMZE&count_private=true&show_icons=true&theme=merko" > 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedHalidGAMZE&layout=compact&theme=merko" />
 
