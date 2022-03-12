@@ -91,24 +91,24 @@ ________________________________________________________________________________
 ## 📈 Statistics
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=HaroldFinch129" alt="visitor counter" width="20%"/>
+ <img src="https://komarev.com/ghpvc/?username=Muhammed-Halid-Gamze" alt="visitor counter" width="20%"/>
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=HaroldFinch129&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroldFinch129&theme=chartreuse-dark" alt="my commit status" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Halid-Gamze&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Halid-Gamze&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldFinch129&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Halid-Gamze&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
 
 
 
 
-<img src=https://raw.githubusercontent.com/HaroldFinch129/MuhammedHalidGamze/main/ss.png>
-<img src="https://github-readme-stats.vercel.app/api?username=HaroldFinch129&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldFinch129&layout=compact&theme=merko" />
+<img src=https://raw.githubusercontent.com/Muhammed-Halid-Gamze/MuhammedHalidGamze/main/ss.png>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Halid-Gamze&count_private=true&show_icons=true&theme=merko" > 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Halid-Gamze&layout=compact&theme=merko" />
 
 
-![](https://komarev.com/ghpvc/?username=HaroldFinch129)
+![](https://komarev.com/ghpvc/?username=Muhammed-Halid-Gamze)
 <br>
